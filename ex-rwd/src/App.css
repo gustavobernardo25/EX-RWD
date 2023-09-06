@@ -50,7 +50,7 @@ nav {
   justify-content: center;
   align-items: center;
   height: 8vh;
-  background-color: royalblue;
+  background-color: rgb(37, 63, 142);
 
   & a {
     color: white;
@@ -74,5 +74,5 @@ footer {
   justify-content: center;
   align-items: center;
   height: 5vh;
-  background-color: darkblue;
+  background-color: rgb(28, 28, 109);
 }
