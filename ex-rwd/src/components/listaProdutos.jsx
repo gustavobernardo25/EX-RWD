@@ -13,5 +13,15 @@ export const listaProdutos = [
     id: 3,
     nome: 'Monitor',
     preco: 950
+  },
+  {
+    id: 4,
+    nome: 'Moto G5',
+    preco: 95000
+  },
+  {
+    id: 5,
+    nome: 'Nokia 2',
+    preco: 1800
   }
 ]
